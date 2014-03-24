@@ -1,0 +1,1 @@
+document.write('https://clipperz.is/delta/');

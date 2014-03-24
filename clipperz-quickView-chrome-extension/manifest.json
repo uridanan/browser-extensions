@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Clipperz QuickView",
+  "description": "This extension provides a quick view to your clipperz data",
+  "version": "1.0",
+
+  "permissions": [
+    "https://clipperz.is/delta/"
+  ],
+  "browser_action": {
+    "default_icon": "logo_38.png",
+    "default_popup": "popup.html",
+	"default_title ": "Clipperz QuickView"
+  }
+}
